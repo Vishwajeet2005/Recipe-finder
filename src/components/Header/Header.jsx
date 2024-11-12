@@ -32,7 +32,7 @@ export default function Header (props) {
           </Link>
         </div>
         <Link to='/'>
-          <h1 className='title'>recipe radar</h1>
+          <h1 className='title'>recipe finder</h1>
         </Link>
         <Link to='/favorites'>
           <img className='svg heart-svg' src="/filled-heart.svg" />
